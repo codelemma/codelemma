@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning DSA with CPP
 - 💞️ I’m looking to collaborate on ...
 
--📄 Know about my experiences [GMAIL](abhicpp.sd@gmail.com)
+-📄 Know about my experiences [linkedin](https://www.linkedin.com/in/abhishek-shukla-48b819210/)
