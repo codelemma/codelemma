@@ -2,4 +2,5 @@
 - 👀 I’m interested in software and web developement
 - 🌱 I’m currently learning DSA with CPP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me abhicpp.sd@gmail.com
+
+-📄 Know about my experiences [GMAIL](abhicpp.sd@gmail.com)
